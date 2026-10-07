@@ -1,4 +1,4 @@
-# FNP Sales Analysis – Excel Dashboard
+# FNP Sales Analysis – Excel Project
 
 ## 📊 Project Overview
 
@@ -267,29 +267,6 @@ This project demonstrates practical skills in:
 
 ---
 
-## 📂 Project Structure
-
-```text
-FNP-Sales-Analysis/
-│
-├── FNP_Sales_Analysis.xlsx
-├── main.png
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel workbook.
-2. Open it using Microsoft Excel.
-3. Navigate to the dashboard sheet.
-4. Use the **Order Date**, **Delivery Date**, and **Occasion** filters.
-5. Select different values to interact with the dashboard.
-6. Analyze the KPIs and charts to identify sales trends and business insights.
-
----
-
 ## 📌 Project Outcome
 
 The project transforms raw FNP sales data into an interactive business dashboard that enables users to quickly understand **sales performance, customer spending, product performance, seasonal trends, city-wise orders, occasion-wise revenue, and hourly sales patterns**.
@@ -303,7 +280,3 @@ It demonstrates how Excel can be used as a complete **data analysis and business
 **Solomon Isaac**
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
-
----
-
-⭐ If you find this project useful, consider giving the repository a **star** on GitHub.
