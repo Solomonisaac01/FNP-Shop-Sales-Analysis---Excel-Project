@@ -229,7 +229,7 @@ Converted the analysis into an interactive Excel dashboard using charts, KPI car
 
 ## 📊 Dashboard Preview
 
-![FNP Sales Analysis Dashboard](main.png)
+[![FNP Sales Analysis Dashboard](main.png)](https://github.com/Solomonisaac01/FNP-Shop-Sales-Analysis---Excel-Project/blob/main/Screenshot.png)
 
 ---
 
